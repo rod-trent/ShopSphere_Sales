@@ -1,6 +1,6 @@
 # ShopSphere Sales Dataset README
 
-This README provides instructions for using the `ShopSphere_Sales.csv` dataset, designed for the "KQL Choose-Your-Own-Adventure: Interactive Query Learning" blog post. The dataset represents e-commerce sales data for practicing Kusto Query Language (KQL) queries.
+This README provides instructions for using the `ShopSphere_Sales.csv` dataset, designed for the ["KQL Choose-Your-Own-Adventure: Interactive Query Learning"](https://rodtrent.substack.com/p/kql-choose-your-own-adventure-interactive) blog post. The dataset represents e-commerce sales data for practicing Kusto Query Language (KQL) queries.
 
 ## Dataset Overview
 
@@ -30,7 +30,7 @@ Ensure you have:
 ## Setup Instructions
 
 1. **Download the Dataset**
-   - Obtain the `ShopSphere_Sales.csv` file from the provided source (e.g., repository or blog post attachment).
+   - Obtain the `ShopSphere_Sales.csv` file from the provided source.
 
 2. **Ingest the Dataset into Azure Data Explorer**
    - Log in to your Azure Data Explorer cluster.
@@ -69,10 +69,10 @@ Ensure you have:
 
 ## Using the Dataset
 
-The dataset is designed to work with the KQL queries in the "KQL Choose-Your-Own-Adventure" blog post. Follow these steps:
+The dataset is designed to work with the KQL queries in the ["KQL Choose-Your-Own-Adventure"](https://rodtrent.substack.com/p/kql-choose-your-own-adventure-interactive) blog post. Follow these steps:
 
 1. **Explore the Blog Post**
-   - Refer to the blog post for an interactive guide to building KQL queries.
+   - Refer to the [blog post](https://rodtrent.substack.com/p/kql-choose-your-own-adventure-interactive) for an interactive guide to building KQL queries.
    - The post walks you through choices (e.g., filtering by time or category) to create queries like:
      ```kql
      Sales
@@ -114,6 +114,6 @@ The dataset is designed to work with the KQL queries in the "KQL Choose-Your-Own
 
 - [KQL Documentation](https://docs.microsoft.com/en-us/azure/data-explorer/kusto/query/)
 - [Azure Data Explorer Web UI](https://dataexplorer.azure.com/)
-- The "KQL Choose-Your-Own-Adventure" blog post for guided query-building.
+- The ["KQL Choose-Your-Own-Adventure"](https://rodtrent.substack.com/p/kql-choose-your-own-adventure-interactive) blog post for guided query-building.
 
 Happy querying, and enjoy your KQL adventure with ShopSphere!
