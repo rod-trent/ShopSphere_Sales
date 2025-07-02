@@ -1,0 +1,16 @@
+Timestamp,UserId,Category,Item,Price,Region
+2025-06-25T10:15:00Z,U12345,Electronics,Smartphone,699.99,NorthAmerica
+2025-06-25T12:30:00Z,U67890,Clothing,T-Shirt,29.99,Europe
+2025-06-26T09:45:00Z,U54321,Home,Lamp,49.99,Asia
+2025-06-26T14:20:00Z,U98765,Electronics,Laptop,999.99,NorthAmerica
+2025-06-27T11:00:00Z,U24680,Clothing,Jacket,89.99,Europe
+2025-06-27T16:10:00Z,U13579,Home,Chair,199.99,Asia
+2025-06-28T08:25:00Z,U86420,Electronics,Headphones,149.99,NorthAmerica
+2025-06-28T13:40:00Z,U35791,Clothing,Jeans,59.99,Europe
+2025-06-29T10:50:00Z,U79135,Home,Table,299.99,Asia
+2025-06-29T15:15:00Z,U42068,Electronics,Tablet,399.99,NorthAmerica
+2025-06-30T09:30:00Z,U97531,Clothing,Sweater,49.99,Europe
+2025-06-30T12:45:00Z,U18642,Home,Mirror,79.99,Asia
+2025-07-01T11:20:00Z,U75319,Electronics,Smartwatch,249.99,NorthAmerica
+2025-07-01T14:55:00Z,U29164,Clothing,Shoes,99.99,Europe
+2025-07-02T08:00:00Z,U63840,Home,Sofa,599.99,Asia
